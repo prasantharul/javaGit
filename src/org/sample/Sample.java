@@ -7,4 +7,9 @@ public class Sample {
 
 	}
 
+	//Arul coding
+	private void testcase2() {
+		System.out.println("testcase:2");
+	
+}
 }
